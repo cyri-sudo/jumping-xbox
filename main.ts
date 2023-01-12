@@ -887,7 +887,7 @@ game.setDialogCursor(img`
     . . . . . . d . . d . . . . . . 
     . . . . . . f . . f . . . . . . 
     `)
-game.splash("Jumping Mateo")
+game.splash("Jumping Xboxalt")
 level = 1
 intitPlayer()
 setLevel(level, mySprite)
